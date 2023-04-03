@@ -1,4 +1,4 @@
-# Lista de atividades 07
+# Lista de atividades 08
 
     1. Classe Bola: Crie uma classe que modele uma bola:
         a. Atributos: Cor, circunferência, material
